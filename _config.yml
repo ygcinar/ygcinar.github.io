@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yağmur Gizem Çınar"
+title                    : "Yagmur Gizem Cinar"
 title_separator          : "-"
-name                     : &name "Yagmur Gizem Cinar"
-description              : &description "Deep Learning Researcher"
+name                     : &name "Yağmur Gizem Çınar"
+description              : &description "Machine Learning Researcher"
 url                      : https://ygcinar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ygcinar/ygcinar.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yagmur Gizem Cinar"
   avatar           : "profile.png"
-  bio              : "Deep Learning Researcher"
-  location         : "Grenoble, France"
-  employer         : "Univ. Grenoble Alpes"
+  bio              : "Machine Learning Researcher"
+  location         : "France"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=r9NV2pQAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
