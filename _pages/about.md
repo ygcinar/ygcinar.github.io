@@ -13,7 +13,7 @@ Biography
 ======
 Yagmur Gizem Cinar is a postdoctoral researcher at Laboratoire d'Informatique de Grenoble (Computer Science Lab), Univ. Grenoble Alpes, Grenoble, France. She was a research scientist at Naver Labs Europe, France (2018-2020). She received her PhD on Sequence Prediction with Recurrent Neural Networks in the Context of Time Series and Information Retrieval Search Sessions at Univ. Grenoble Alpes in 2019, and MSc degrees in Artificial Intelligence and Electrical Engineering at KU Leuven in 2015 and 2014, respectively. Her research interests are deep learning, sequential learning, information retrieval, natural language processing and multi-modal learning.
 
-Research Experience and Education
+
 ======
 
 **(2020-) Postdoctoral Researcher, Univ. Grenoble Alpes, France**  
