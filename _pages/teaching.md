@@ -13,7 +13,7 @@ author_profile: true
 
 ### Ensimag (grande école publique d'ingénieurs en informatique et mathématiques appliquées de Grenoble) - Grenoble INP
 
-(2018 Summer) Recurrent Neural Networks for Time Series Forecasting, as a part of ENSIMAG Smart Energy Summer School 2018  
+(2018 Summer) Recurrent Neural Networks for Time Series Forecasting, as a part of ENSIMAG Smart Energy Summer School  
 (2017 Fall) Advanced Algorithms for Machine Learning and Data Mining  
 (2017/2018 Spring) Intelligent Systems: Recognition and Reasoning  
 (2016/2017 Fall) Pattern Recognition and Machine Learning  
