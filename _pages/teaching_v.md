@@ -2,7 +2,7 @@
 permalink: /
 title: "Teaching"
 excerpt: "teaching"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /teaching/
   - /teaching.html
