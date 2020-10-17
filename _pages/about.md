@@ -21,8 +21,7 @@ Yagmur Gizem Cinar is a postdoctoral researcher at Laboratoire d'Informatique de
 **(2018-2020) Postdoctoral Researcher, Naver Labs Europe, France**  
         Search and Recommendation  
 **(2015-2019) Ph.D. in Computer Science, Univ. Grenoble Alpes, France**  
-        Thesis: Sequence Prediction with Recurrent Neural Networks in the Context of Time
-Series and Information Retrieval Search Sessions  
+        Thesis: Sequence Prediction with Recurrent Neural Networks in the Context of Time Series and Information Retrieval Search Sessions  
 **(2014-2015) M.Sc. in Artificial Intelligence, KU Leuven, Belgium**  
         Thesis: Inferring User Interest on Social Media from Images & Text  
 **(2012-2014) M.Sc. in Electrical Engineering, KU Leuven, Belgium**  
