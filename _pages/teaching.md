@@ -8,7 +8,8 @@ author_profile: true
 
 ### Univ. Grenoble Alpes
 
-(2020 Fall) Algorithms and Programming in Python 
+(2020 Fall) Algorithms and Programming in Python  
+(2020 Fall) Data Science  
 
 
 ### Ensimag (grande école publique d'ingénieurs en informatique et mathématiques appliquées de Grenoble) - Grenoble INP
