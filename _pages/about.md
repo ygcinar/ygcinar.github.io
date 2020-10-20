@@ -27,12 +27,12 @@ Yagmur Gizem Cinar is a postdoctoral researcher at Laboratoire d'Informatique de
         Thesis: *Inferring User Interest on Social Media from Images & Text*  
         Supervisor: Dr. Susana Zoghbi  
         Director: Prof. Marie-Francine Moens    
-**(2012-2014) M.Sc. in Electrical Engineering *with a specialization on Embedded Sytems and Multimedia*, KU Leuven, Belgium**     
+**(2012-2014) M.Sc. in Electrical Engineering *with a specialization on Embedded Sytems and Multimedia*, KU Leuven, Belgium**  
         Thesis: *Object Discovery with Latent Topic Models*  
         Supervisor: Dr. Konstantinos Rematas  
         Director: Prof. Tinne Tuytelaars  
 **(2007-2012) B.Sc. in Electronics Engineering, Sabanci University, Turkey**  
-        Graduation Project: *Detection and Classification of Steady-State Visual Evoked Potentials in Brain-Computer Interfaces*
+        Graduation Project: *Detection and Classification of Steady-State Visual Evoked Potentials in Brain-Computer Interfaces*  
         Supervisor: Dr. Jaime Fernando Delgado Saa  
         Director: Prof. Mujdat Cetin  
 
