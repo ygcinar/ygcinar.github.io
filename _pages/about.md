@@ -9,7 +9,7 @@ redirect_from:
 ---
 News
 ======
-[Invited talk](https://samoa.dcs.gla.ac.uk/events/viewtalk.jsp?id=17323) on Adaptive Pointwise-Pairwise Learning-to-Rank for Content-based Recommendation and Period-aware Content-based Attention for Time Series Forecasting at University of Glasgow ([slides](https://github.com/ygcinar/ygcinar.github.io/blob/master/files/presentation_glasgow.pdf))
+[Invited talk](https://samoa.dcs.gla.ac.uk/events/viewtalk.jsp?id=17323) on Adaptive Pointwise-Pairwise Learning-to-Rank for Content-based Recommendation and Period-aware Content-based Attention for Time Series Forecasting at University of Glasgow ([slides](https://github.com/ygcinar/ygcinar.github.io/raw/master/files/presentation_glasgow.pdf))
 
 Biography
 ======
